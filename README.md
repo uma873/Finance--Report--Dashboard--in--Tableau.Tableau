@@ -13,9 +13,10 @@
 Report has multiple section's from where you can manage the data, like :
 - Report data can be Filter by Segments, Country ,Discount band and Year to show particular data.
 - Report has kpi  showing Total Units Sold, total Revenue(Total Gross Sale) and ,Profit Margin,Coast to sales ratio ,Discount impact.
-- Report has a clustered bar chart with year on x-axis and profit on y-axis showing profit quarterly.
-- And lastly, Report has a area chart showing months on x-axis and profit on y-axis showing profit monthly.
-- I have also included a Reset button at the top to clear all slicer's.
+- Report has a Sales and Profit by Country column chart,Sales and Profit Trend Over Time in line chart,. Gross Sales vs Discounts on scatter chart,
+- Sales by Product and Discount Band on heat map chart.
+- And lastly, Report has a financial Performance Dashboard.
+- I have also included action filter on Dashboard for attractive dashbaord  .
 - .
 
 <hr>
